@@ -1,0 +1,19 @@
+[
+    {
+        "descricao": "estudar",
+        "categoria": "pessoal",
+        "concluida": false
+    },
+    {
+        "descricao": "estudos",
+        "categoria": "trabalho",
+        "concluida": false,
+        "data": "12/05/2025"
+    },
+    {
+        "descricao": "estudar",
+        "categoria": "trabalho",
+        "concluida": false,
+        "data": "12/05/2025"
+    }
+]
